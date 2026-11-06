@@ -29,6 +29,7 @@ h1{margin:0 0 4px;font:600 clamp(32px,5vw,52px)/1.08 Unbounded,sans-serif;letter
 .pill{position:absolute;top:18px;left:18px;font-size:12px;font-weight:600;padding:7px 11px;border-radius:999px;white-space:nowrap}
 .pill.open{background:#fff;color:#0B5A55}
 .pill.google{background:rgba(20,22,21,.72);color:#fff;border:1px solid rgba(255,255,255,.28)}
+.pill.own{background:rgba(20,22,21,.72);color:#fff;border:1px solid rgba(255,255,255,.28)}
 .pill.home{background:#F6EAD9;color:#7A3E06}
 .pill.soon{background:#F2EADB;color:#4A3F2E}
 .cap{position:absolute;left:22px;right:22px;bottom:22px;display:flex;flex-direction:column;gap:6px}
