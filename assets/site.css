@@ -6,7 +6,7 @@ a{color:#0F6E68}a:hover{color:#0A4F4B}
 .wrap{max-width:1180px;margin:0 auto;padding:32px 24px 56px;display:flex;flex-direction:column;gap:36px}
 .top{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:16px}
 .brand{display:flex;align-items:center;gap:12px;text-decoration:none;color:#1B1F1D}
-.brand b{width:44px;height:44px;border-radius:14px;background:#1B1F1D;color:#F3F4F1;display:flex;align-items:center;justify-content:center;font:600 18px Unbounded,sans-serif}
+.brand svg{display:block;flex:none}
 .brand span{font:600 22px Unbounded,sans-serif;letter-spacing:-.01em}
 .actions{display:flex;flex-wrap:wrap;align-items:center;gap:12px}
 .ghost{min-height:44px;display:inline-flex;align-items:center;padding:0 16px;border-radius:999px;color:#5B625E;text-decoration:none;font-weight:500;font-size:15px}
